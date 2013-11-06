@@ -18,7 +18,7 @@ L<Net::RabbitMQ::Management::API> provides a set of modules to access
 L<RabbitMQ|http://hg.rabbitmq.com/rabbitmq-management/raw-file/rabbitmq_v2_6_1/priv/www/api/index.html>
 in an object oriented way.
 
-B<Note:> This library has been tested against the RabbitMQ Management Plugin version 2.6.1.
+B<Note:> This library has been tested against the RabbitMQ Management Plugin version 3.1.3.
 
 =head1 SYNOPSIS
 
