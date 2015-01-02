@@ -2,5 +2,8 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.05      2013-11-06 12:00:00 AEST
+  	  - Update management port
+
 0.01      2011-11-18 14:03:48 Asia/Dubai
           - first release

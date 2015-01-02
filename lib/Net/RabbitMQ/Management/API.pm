@@ -12,6 +12,8 @@ use LWP::UserAgent;
 use Net::RabbitMQ::Management::API::Result;
 use URI;
 
+our $VERSION = '0.05';
+
 =head1 DESCRIPTION
 
 L<Net::RabbitMQ::Management::API> provides a set of modules to access
